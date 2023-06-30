@@ -1,0 +1,232 @@
+
+**** Log file opened at 2022-02-10 13:49:22.658427 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-10 13:49:22.658517 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-10 13:49:22.658588 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-10 13:49:22.658623 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-10 16:06:03.218604 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-10 16:06:03.218810 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-10 16:06:03.218841 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-10 17:00:07.469378 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-10 17:00:07.469610 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-10 17:00:07.469642 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-10 20:35:25.787950 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-10 20:35:25.788179 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-10 20:35:25.788214 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-11 10:53:07.054242 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-11 10:53:07.054429 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-11 10:53:07.054477 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-11 22:53:34.251698 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-11 22:53:34.251886 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-11 22:53:34.251916 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-12 10:06:44.667701 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-12 10:06:44.667931 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-12 10:06:44.667962 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-12 17:45:22.520595 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-12 17:45:22.520784 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-12 17:45:22.520815 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-12 21:03:49.827222 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-12 21:03:49.827421 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-12 21:03:49.827451 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-13 09:39:49.545702 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-13 09:39:49.545906 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-13 09:39:49.545949 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-13 11:16:32.959266 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-13 11:16:32.959461 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-13 11:16:32.959490 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-13 11:20:24.202109 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-13 11:20:24.202313 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-13 11:20:24.202345 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-13 11:25:51.596127 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-13 11:25:51.596327 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-13 11:25:51.596357 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-13 11:33:26.017318 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-13 11:33:26.017482 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-13 11:33:26.017513 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-13 11:40:09.799589 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-13 11:40:09.799757 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-13 11:40:09.799787 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+
+2022-02-13 12:40:21.484716 [140632133940672] >> Info entry
+	Changing global trace directory to /usr/sap/nwrfcsdk/trace/
+
+
+**** Log file opened at 2022-02-13 12:40:21.484982 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-QRD-MAPP01, IP address: 172.16.40.37, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-02-13 12:40:21.485050 [140632133940672] >> Info entry
+	Changing trace level: handle 0 / destination (null) / level 3
+

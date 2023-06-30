@@ -1,0 +1,18 @@
+
+**** Trace file opened at 2022-01-27 15:52:16.956544 UTC+05:30 (GMT), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 7, Compiled on Sep 19 2020 00:13:35
+ CPIC library: 753.2020.09.14 version 3, NI library: 40, Kernel Release: 753 Patch Level 711
+ Current working directory: /var/www/html/myLava/app/webroot, Program: php-fpm
+ Hardware: AMD/Intel x86_64 with Linux x86_64, Operating_system: Linux 4.18.0-240.22.1.el8_3.x86_64
+ Hostname: NHQ-SBX-MAPP01, IP address: 192.168.200.55, IPv6 address: fe80::575:9ec4:1543:4517
+
+2022-01-27 15:52:16.956609 [140356002366912] >> RfcSetTraceLevel
+Changing global trace level from 0 to 3
+2022-01-27 15:52:16.956636 [140356002366912] << RfcSetTraceLevel returned RFC_OK
+
+2022-01-27 15:52:16.966899 [140356002366912] >> RfcDestroyFunctionDesc
+delete MD{55f51ef4bec0}
+2022-01-27 15:52:16.967049 [140356002366912] << RfcDestroyFunctionDesc returned RFC_ILLEGAL_STATE
+	RFC_ERROR_INFO.key: RFC_ILLEGAL_STATE
+	RFC_ERROR_INFO.message: The instance is either removed or cached in a repository.
+
